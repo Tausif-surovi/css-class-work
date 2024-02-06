@@ -1,0 +1,56 @@
+.header-section{
+    padding: 25px 10%;
+    display: flex;
+}
+.header-section h1{
+  font-size: 45px;
+}
+.header-section .left-contain{
+    width: 50%;
+}
+.header-section .section-color{
+    color: rgb(230, 90, 10);
+}
+.header-section .left-contain p{
+    text-align: justify;
+    line-height: 20px;
+}
+.header-section .left-contain button{
+    background-color:rgb(230, 90, 10) ;
+    border: none;
+    padding: 10px 5%;
+    
+}
+.header-section .right-contain{
+    width: 50%;
+
+}
+.header-section .right-contain img{
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+}
+.cv-section{
+    
+    display: flex;
+    
+}
+
+.cv-section .left-contain img{
+    height: 100%;
+    width: 100%;
+  position: -ms-page;
+}
+.cv-section .left-contain{
+    margin: 30px;
+}
+.cv-section .right-contain p{
+    text-align: justify;
+    line-height: 20px;
+}
+.cv-section .right-contain button{
+    background-color:rgb(230, 90, 10) ;
+    border: none;
+    padding: 20px 25px;
+    width: 100%;
+}
